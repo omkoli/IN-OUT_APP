@@ -13,7 +13,11 @@ An application to keep track of who all are IN ot OUT for an event.
 User can create groups, join existing groups using the group keys.
 On-clicking the group, users can be seen whether they are IN or OUT for that event.
 The Set Info is available for every user and can change the group description.
-On-clicking the I-Info floating button, you can see the user's last activity for their change in state, even you can changeyour state with the Switch.## Contributors : 
+On-clicking the I-Info floating button, you can see the user's last activity for their change in state, even you can changeyour state with the Switch.
+
+
+
+## Contributors : 
 
 Om Suryakant Koli (omkoli3600xt@gmail.com)
 
@@ -23,6 +27,6 @@ GitHub :
 		
 LinkedIn : 
 - [linkedin.com/omkoli](https://www.linkedin.com/in/omkoli/)
-					 
+		 
 Instagram  : 
 - [instagram.com/0mkoli](https://www.instagram.com/0mkoli/)
