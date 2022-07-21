@@ -2,4 +2,4 @@
 An application to keep track of who all are IN ot OUT for an event.
 
 ![alt text](https://github.com/omkoli/IN-OUT_App/blob/main/Screenshot_20220722-001935.jpg | width=100)
-<img src="https://github.com/omkoli/IN-OUT_App/blob/main/Screenshot_20220722-001935.jpg" width="100" height="100">
+<img src="https://github.com/omkoli/IN-OUT_App/blob/main/Screenshot_20220722-001935.jpg" width="400" height="600">
