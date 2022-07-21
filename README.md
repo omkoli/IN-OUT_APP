@@ -10,13 +10,13 @@ An application to keep track of who all are IN ot OUT for an event.
 </p>
 
 ## Introduction:
-User can create groups, join existing groups using the group keys.
+- User can create groups, join existing groups using the group keys.
 
-On-clicking the group, users can be seen whether they are IN or OUT for that event.
+- On-clicking the group, users can be seen whether they are IN or OUT for that event.
 
-The Set Info is available for every user and can change the group description.
+- The Set Info is available for every user and can change the group description.
 
-On-clicking the I-Info floating button, you can see the user's last activity for their change in state, even you can changeyour state with the Switch.
+- On-clicking the I-Info floating button, you can see the user's last activity for their change in state, even you can changeyour state with the Switch.
 
 
 
