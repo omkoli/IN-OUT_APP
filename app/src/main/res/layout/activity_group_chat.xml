@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GroupChatActivity">
+
+
+    <androidx.appcompat.widget.Toolbar
+
+        android:id="@+id/toolBar"
+        android:layout_width="match_parent"
+        android:layout_height="111dp"
+        android:background="#F81555"
+        android:minHeight="?attr/actionBarSize"
+        app:titleTextColor="@android:color/white"></androidx.appcompat.widget.Toolbar>
+
+
+    <androidx.recyclerview.widget.RecyclerView
+
+        android:id="@+id/userList"
+        android:layout_width="match_parent"
+        android:layout_height="624dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="110dp"
+        android:layout_marginBottom="-3dp"
+        android:background="@color/black" />
+
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="97dp"
+        android:layout_height="80dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginBottom="614dp"
+        android:src="@android:drawable/ic_dialog_info"
+        app:backgroundTint="@color/white"
+        app:fabSize="auto" />
+
+    <Button
+        android:id="@+id/button2"
+        style="@style/Widget.Material3.Button.TextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="8dp"
+        android:textColor="@color/black"
+        android:text="Set Info"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        tools:visibility="visible" />
+
+</RelativeLayout>
